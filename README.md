@@ -5,15 +5,15 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;Euu gosto de explorar novas tecnologias.\
+💡 &nbsp;Eu gosto de explorar novas tecnologias.\
 🎓 &nbsp;Atualmente faço engenharia de computação na FACENS.\
 🌱 &nbsp;Estou atualmente fazendo um estágio na área de desenvolvimento de sistemas web.\
 ✍️ &nbsp;Estou aprendendo mais sobre Análise de Dados e Inteligência Artificial\
-✉️ &nbsp;Você pode me contatar pelo email pe.marcos30@gmail.com.\
+✉️ &nbsp;Você pode me contatar pelo email pe.marcos30@gmail.com.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-### Programming languages
 
+### Linguagens de Programação
 <p align="left"> 
   
 <a href="https://python.org/">
@@ -40,7 +40,7 @@
    </a>
   &emsp; 
 
-### Databases & Cloud Hosting
+### Databases & Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -50,7 +50,7 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
 
- ### Software & Tools
+ ### Software & Ferramentas
  
 <p>
   &emsp;
