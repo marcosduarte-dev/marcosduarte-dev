@@ -49,6 +49,8 @@
     &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
+    <a href="https://www.postgresql.org/"><img alt="GitHub Pages" src="https://camo.githubusercontent.com/95a15266c9b093e9070410fa62c8dcba6611e79edd738e0ded7ec5b52541d6c4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f737467726553514c26636f6c6f723d343136394531266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
+  &emsp;
 
  ### Software & Ferramentas
  
@@ -64,6 +66,9 @@
 &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
      &emsp;
+    <a href="#"><img alt="Azure DevOps" src="https://camo.githubusercontent.com/e390f20e5556c26f902300a4f5f6d1547caae6f89094cd77364b6e490d3bc89a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d417a7572652b4465764f707326636f6c6f723d303037384437266c6f676f3d417a7572652b4465764f7073266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
+     &emsp;
+  
     
 </p>
 
