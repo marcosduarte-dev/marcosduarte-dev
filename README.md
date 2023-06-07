@@ -11,6 +11,16 @@
 ✍️ &nbsp;Estou aprendendo mais sobre Análise de Dados e Inteligência Artificial\
 ✉️ &nbsp;Você pode me contatar pelo email pe.marcos30@gmail.com.
 
+<h2> 💬 Publicações Medium: </h2>
+
+### Dados
+ - [Correlação de Pearson: Uma medida essencial na análise de dados](https://medium.com/@pe.marcos30/correla%C3%A7%C3%A3o-de-pearson-uma-medida-essencial-na-an%C3%A1lise-de-dados-a4c1c0bfbcf1)
+ - [Information Value: Uma medida poderosa na seleção de variáveis](https://medium.com/@pe.marcos30/df5169d00139)
+
+### Angular
+- [Angular NgIf: renderizando elementos condicionalmente em seu sistema](https://medium.com/@pe.marcos30/angular-ngif-renderizando-elementos-condicionalmente-em-seu-sistema-f610cd3e16f7)
+- [ngFor Angular: Um guia completo](https://medium.com/@pe.marcos30/ngfor-angular-um-guia-completo-19a59d036f04)
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ### Linguagens de Programação
